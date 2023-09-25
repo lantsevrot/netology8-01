@@ -4,3 +4,6 @@ https://github.com/lantsevrot/netology8-01/commit/7a56f23a9b5ef0613cd9fff7edf528
 
 Задание 2
 https://github.com/lantsevrot/netology8-01/commit/52dd6e1e40517e6bcc91621ccb6113372e4415f8
+
+Задание 3
+https://github.com/lantsevrot/netology8-01/network
